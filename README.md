@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iniesta1
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring,Hibernate,Maven Frameworks
+- 🌱 I’m currently learning Java Frameworks
 - 📫 How to reach me alpozer17@hotmail.com
 
 <!---
