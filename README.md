@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iniesta1
+- 👋 Hi, I’m Alp
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java Frameworks
 - 📫 How to reach me alpozer17@hotmail.com
